@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+out/
+# Golly 由来のパターンは scripts/fetch_patterns.sh で取得する
+patterns/*.rle
